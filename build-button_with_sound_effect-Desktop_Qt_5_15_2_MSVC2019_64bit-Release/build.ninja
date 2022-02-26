@@ -146,7 +146,7 @@ build button_sound_autogen\timestamp button_sound_autogen\mocs_compilation.cpp |
 #############################################
 # Phony custom command for CMakeFiles\button_sound_autogen_timestamp_deps
 
-build CMakeFiles\button_sound_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles\button_sound_autogen_timestamp_deps: phony C$:\Qt\5.15.2\msvc2019_64\bin\Qt5Widgets.dll C$:\Qt\5.15.2\msvc2019_64\bin\Qt5Core.dll C$:\Qt\5.15.2\msvc2019_64\bin\uic.exe C$:\Qt\5.15.2\msvc2019_64\bin\Qt5Gui.dll C$:\Qt\5.15.2\msvc2019_64\bin\moc.exe C$:\Qt\5.15.2\msvc2019_64\bin\Qt5Multimedia.dll
+build CMakeFiles\button_sound_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles\button_sound_autogen_timestamp_deps: phony C$:\Qt\5.15.2\msvc2019_64\bin\moc.exe C$:\Qt\5.15.2\msvc2019_64\bin\Qt5Gui.dll C$:\Qt\5.15.2\msvc2019_64\bin\Qt5Core.dll C$:\Qt\5.15.2\msvc2019_64\bin\Qt5Widgets.dll C$:\Qt\5.15.2\msvc2019_64\bin\uic.exe C$:\Qt\5.15.2\msvc2019_64\bin\Qt5Multimedia.dll
 
 
 #############################################

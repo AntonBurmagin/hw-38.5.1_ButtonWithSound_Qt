@@ -26,9 +26,9 @@ The CXX compiler identification is MSVC, found in "C:/Users/burma/Desktop/C++/HW
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/build-button_with_sound_effect-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_2b5bd && [1/2] Building CXX object CMakeFiles\cmTC_2b5bd.dir\CMakeCXXCompilerABI.cpp.obj
+Run Build Command(s):C:/PROGRA~2/MIB055~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_69edb && [1/2] Building CXX object CMakeFiles\cmTC_69edb.dir\CMakeCXXCompilerABI.cpp.obj
 Примечание: включение файла:  C:\Qt\Tools\CMake_64\share\cmake-3.21\Modules\CMakeCompilerABI.h
-[2/2] Linking CXX executable cmTC_2b5bd.exe
+[2/2] Linking CXX executable cmTC_69edb.exe
 
 
 

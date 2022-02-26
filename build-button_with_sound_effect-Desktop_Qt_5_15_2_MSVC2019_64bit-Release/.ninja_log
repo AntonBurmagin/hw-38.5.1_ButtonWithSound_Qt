@@ -1,9 +1,9 @@
 # ninja log v5
-5	2456	667596770	button_sound_autogen/timestamp	2429f021b0f243ac
-5	2456	667596770	button_sound_autogen/mocs_compilation.cpp	2429f021b0f243ac
-5	2456	667596770	C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/build-button_with_sound_effect-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/button_sound_autogen/timestamp	2429f021b0f243ac
-5	2456	667596770	C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/build-button_with_sound_effect-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/button_sound_autogen/mocs_compilation.cpp	2429f021b0f243ac
-2468	7038	667596775	CMakeFiles/button_sound.dir/mainwindow.cpp.obj	c1cffe8ef6e42cf0
-2458	7584	667596775	CMakeFiles/button_sound.dir/button_sound_autogen/mocs_compilation.cpp.obj	4de9890f7afa25f5
-2476	9261	667596777	CMakeFiles/button_sound.dir/main.cpp.obj	5f328cf8f8ffa27b
-9262	11427	667596779	button_sound.exe	8882f1691c00f578
+5	2336	667597126	button_sound_autogen/timestamp	2429f021b0f243ac
+5	2336	667597126	button_sound_autogen/mocs_compilation.cpp	2429f021b0f243ac
+5	2336	667597126	C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/build-button_with_sound_effect-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/button_sound_autogen/timestamp	2429f021b0f243ac
+5	2336	667597126	C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/build-button_with_sound_effect-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/button_sound_autogen/mocs_compilation.cpp	2429f021b0f243ac
+2352	6525	667597131	CMakeFiles/button_sound.dir/mainwindow.cpp.obj	c1cffe8ef6e42cf0
+2337	6672	667597131	CMakeFiles/button_sound.dir/button_sound_autogen/mocs_compilation.cpp.obj	4de9890f7afa25f5
+2346	7767	667597132	CMakeFiles/button_sound.dir/main.cpp.obj	5f328cf8f8ffa27b
+7768	9923	667597134	button_sound.exe	8882f1691c00f578
