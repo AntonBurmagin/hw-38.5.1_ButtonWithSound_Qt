@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "button_sound",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "button_sound::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-button_sound-Release-4c4b137abff37820f442.json",
+					"name" : "button_sound",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "button_sound_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-button_sound_autogen-Release-d8b35b247aa0d525eaa2.json",
+					"name" : "button_sound_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "button_sound_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-button_sound_autogen_timestamp_deps-Release-d44e078d485b73667b2e.json",
+					"name" : "button_sound_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/build-button_with_sound_effect-Desktop_Qt_5_15_2_MSVC2019_64bit-Release",
+		"source" : "C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/b_s"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,5 @@
+C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/build-button_with_sound_effect-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/button_with_sound_effect.dir
+C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/build-button_with_sound_effect-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/build-button_with_sound_effect-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/build-button_with_sound_effect-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/button_with_sound_effect_autogen_timestamp_deps.dir
+C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/build-button_with_sound_effect-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/button_with_sound_effect_autogen.dir
