@@ -24,12 +24,12 @@ public:
     MyButton() = default;
     MyButton(QWidget *parent) {
         setParent(parent);
-        upMyButton = QPixmap("C:\\Users\\burma\\Desktop\\C++\\HW\\HW-38 advanced Qt\\hw-38.5.1 red button sounds\\button_up.png");
-        downMyButton = QPixmap("C:\\Users\\burma\\Desktop\\C++\\HW\\HW-38 advanced Qt\\hw-38.5.1 red button sounds\\button_down.png");
+        upMyButton = QPixmap("..\\button_up.png");
+        downMyButton = QPixmap("..\\button_down.png");
         currentMyButton = upMyButton;
         setGeometry(currentMyButton.rect());
-        playerPushDown.setMedia(QUrl::fromLocalFile("C:\\Users\\burma\\Desktop\\C++\\HW\\HW-38 advanced Qt\\hw-38.5.1 red button sounds\\golos-knopka.mp3"));
-        playerPushUp.setMedia(QUrl::fromLocalFile("C:\\Users\\burma\\Desktop\\C++\\HW\\HW-38 advanced Qt\\hw-38.5.1 red button sounds\\tel.mp3"));
+        playerPushDown.setMedia(QUrl::fromLocalFile("..\\golos-knopka.mp3"));
+        playerPushUp.setMedia(QUrl::fromLocalFile("..\\tel.mp3"));
         connect(this, &QPushButton::clicked, this,[this]() {
             playerPushDown.stop();
             playerPushUp.stop();

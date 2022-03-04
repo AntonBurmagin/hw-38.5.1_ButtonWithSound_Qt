@@ -87,7 +87,6 @@ C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/b_s/
  mdp:C:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qtwidgets-config.h
  mdp:C:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qtwidgetsglobal.h
  mdp:C:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qwidget.h
-C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/b_s/mainwindow.cpp
 C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/b_s/main.cpp
  mmc:Q_OBJECT
  mid:main.moc
@@ -229,3 +228,4 @@ C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/b_s/
  mdp:C:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qtwidgetsglobal.h
  mdp:C:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qwidget.h
  mdp:C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/b_s/mainwindow.h
+C:/Users/burma/Desktop/C++/HW/HW-38 advanced Qt/hw-38.5.1 red button sounds/b_s/mainwindow.cpp
